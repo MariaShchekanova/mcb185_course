@@ -7,4 +7,3 @@
 - Text
 * Text
 * **Text**
-'''code'''
